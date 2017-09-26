@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/NormalLinearProblem.hpp
+iostream
+-
+vector
+-
+map
+-
+memory
+-
+
+/home/drinkingcoder/Documents/Code/NLLSQ/src/main.cpp
+NormalLinearProblem.hpp
+/home/drinkingcoder/Documents/Code/NLLSQ/src/NormalLinearProblem.hpp
+
