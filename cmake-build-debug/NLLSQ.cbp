@@ -4,95 +4,91 @@
 	<Project>
 		<Option title="NLLSQ"/>
 		<Option makefile_is_custom="1"/>
-		<Option compiler="gcc"/>
+		<Option compiler="clang"/>
 		<Option virtualFolders="CMake Files\;CMake Files\src\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="/home/drinkingcoder/Documents/Code/NLLSQ/cmake-build-debug"/>
+				<Option working_dir="/Users/drinkingcoder/Documents/university/Lab_Task/solver/NLLSQ/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/drinkingcoder/Documents/Code/NLLSQ/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/drinkingcoder/Documents/Code/NLLSQ/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/drinkingcoder/Documents/Code/NLLSQ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/drinkingcoder/Documents/Code/NLLSQ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/drinkingcoder/Documents/university/Lab_Task/solver/NLLSQ/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/drinkingcoder/Documents/university/Lab_Task/solver/NLLSQ/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/drinkingcoder/Documents/university/Lab_Task/solver/NLLSQ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/drinkingcoder/Documents/university/Lab_Task/solver/NLLSQ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="/home/drinkingcoder/Documents/Code/NLLSQ/cmake-build-debug"/>
+				<Option working_dir="/Users/drinkingcoder/Documents/university/Lab_Task/solver/NLLSQ/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/drinkingcoder/Documents/Code/NLLSQ/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/drinkingcoder/Documents/Code/NLLSQ/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/drinkingcoder/Documents/Code/NLLSQ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/drinkingcoder/Documents/Code/NLLSQ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/drinkingcoder/Documents/university/Lab_Task/solver/NLLSQ/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/drinkingcoder/Documents/university/Lab_Task/solver/NLLSQ/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/drinkingcoder/Documents/university/Lab_Task/solver/NLLSQ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/drinkingcoder/Documents/university/Lab_Task/solver/NLLSQ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="/home/drinkingcoder/Documents/Code/NLLSQ/cmake-build-debug"/>
+				<Option working_dir="/Users/drinkingcoder/Documents/university/Lab_Task/solver/NLLSQ/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/drinkingcoder/Documents/Code/NLLSQ/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/drinkingcoder/Documents/Code/NLLSQ/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/drinkingcoder/Documents/Code/NLLSQ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/drinkingcoder/Documents/Code/NLLSQ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/drinkingcoder/Documents/university/Lab_Task/solver/NLLSQ/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/drinkingcoder/Documents/university/Lab_Task/solver/NLLSQ/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/drinkingcoder/Documents/university/Lab_Task/solver/NLLSQ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/drinkingcoder/Documents/university/Lab_Task/solver/NLLSQ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="main">
-				<Option output="/home/drinkingcoder/Documents/Code/NLLSQ/bin/main" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/drinkingcoder/Documents/Code/NLLSQ/bin"/>
+				<Option output="/Users/drinkingcoder/Documents/university/Lab_Task/solver/NLLSQ/bin/main" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/drinkingcoder/Documents/university/Lab_Task/solver/NLLSQ/bin"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
-				<Option compiler="gcc"/>
+				<Option compiler="clang"/>
 				<Compiler>
-					<Add directory="/home/drinkingcoder/Documents/Code/NLLSQ/include"/>
-					<Add directory="/usr/include/c++/4.8"/>
-					<Add directory="/usr/include/x86_64-linux-gnu/c++/4.8"/>
-					<Add directory="/usr/include/c++/4.8/backward"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include"/>
+					<Add directory="/Users/drinkingcoder/Documents/university/Lab_Task/solver/NLLSQ/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1"/>
 					<Add directory="/usr/local/include"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include-fixed"/>
-					<Add directory="/usr/include/x86_64-linux-gnu"/>
-					<Add directory="/usr/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/drinkingcoder/Documents/Code/NLLSQ/cmake-build-debug/src/Makefile&quot;  VERBOSE=1 main"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/drinkingcoder/Documents/Code/NLLSQ/cmake-build-debug/src/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/drinkingcoder/Documents/Code/NLLSQ/cmake-build-debug/src/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/drinkingcoder/Documents/Code/NLLSQ/cmake-build-debug/src/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/drinkingcoder/Documents/university/Lab_Task/solver/NLLSQ/cmake-build-debug/src/Makefile&quot;  VERBOSE=1 main"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/drinkingcoder/Documents/university/Lab_Task/solver/NLLSQ/cmake-build-debug/src/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/drinkingcoder/Documents/university/Lab_Task/solver/NLLSQ/cmake-build-debug/src/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/drinkingcoder/Documents/university/Lab_Task/solver/NLLSQ/cmake-build-debug/src/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="main/fast">
-				<Option output="/home/drinkingcoder/Documents/Code/NLLSQ/bin/main" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/drinkingcoder/Documents/Code/NLLSQ/bin"/>
+				<Option output="/Users/drinkingcoder/Documents/university/Lab_Task/solver/NLLSQ/bin/main" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/drinkingcoder/Documents/university/Lab_Task/solver/NLLSQ/bin"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
-				<Option compiler="gcc"/>
+				<Option compiler="clang"/>
 				<Compiler>
-					<Add directory="/home/drinkingcoder/Documents/Code/NLLSQ/include"/>
-					<Add directory="/usr/include/c++/4.8"/>
-					<Add directory="/usr/include/x86_64-linux-gnu/c++/4.8"/>
-					<Add directory="/usr/include/c++/4.8/backward"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include"/>
+					<Add directory="/Users/drinkingcoder/Documents/university/Lab_Task/solver/NLLSQ/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1"/>
 					<Add directory="/usr/local/include"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include-fixed"/>
-					<Add directory="/usr/include/x86_64-linux-gnu"/>
-					<Add directory="/usr/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/drinkingcoder/Documents/Code/NLLSQ/cmake-build-debug/src/Makefile&quot;  VERBOSE=1 main/fast"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/drinkingcoder/Documents/Code/NLLSQ/cmake-build-debug/src/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/drinkingcoder/Documents/Code/NLLSQ/cmake-build-debug/src/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/drinkingcoder/Documents/Code/NLLSQ/cmake-build-debug/src/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/drinkingcoder/Documents/university/Lab_Task/solver/NLLSQ/cmake-build-debug/src/Makefile&quot;  VERBOSE=1 main/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/drinkingcoder/Documents/university/Lab_Task/solver/NLLSQ/cmake-build-debug/src/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/drinkingcoder/Documents/university/Lab_Task/solver/NLLSQ/cmake-build-debug/src/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/drinkingcoder/Documents/university/Lab_Task/solver/NLLSQ/cmake-build-debug/src/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/home/drinkingcoder/Documents/Code/NLLSQ/src/main.cpp">
+		<Unit filename="/Users/drinkingcoder/Documents/university/Lab_Task/solver/NLLSQ/src/main.cpp">
 			<Option target="main"/>
 		</Unit>
-		<Unit filename="/home/drinkingcoder/Documents/Code/NLLSQ/CMakeLists.txt">
+		<Unit filename="/Users/drinkingcoder/Documents/university/Lab_Task/solver/NLLSQ/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
-		<Unit filename="/home/drinkingcoder/Documents/Code/NLLSQ/src/CMakeLists.txt">
+		<Unit filename="/Users/drinkingcoder/Documents/university/Lab_Task/solver/NLLSQ/src/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\src\"/>
 		</Unit>
 	</Project>

@@ -4,9 +4,9 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/drinkingcoder/Documents/Code/NLLSQ/src/main.cpp" "/home/drinkingcoder/Documents/Code/NLLSQ/cmake-build-debug/src/CMakeFiles/main.dir/main.cpp.o"
+  "/Users/drinkingcoder/Documents/university/Lab_Task/solver/NLLSQ/src/main.cpp" "/Users/drinkingcoder/Documents/university/Lab_Task/solver/NLLSQ/cmake-build-debug/src/CMakeFiles/main.dir/main.cpp.o"
   )
-set(CMAKE_CXX_COMPILER_ID "GNU")
+set(CMAKE_CXX_COMPILER_ID "Clang")
 
 # The include file search paths:
 set(CMAKE_CXX_TARGET_INCLUDE_PATH

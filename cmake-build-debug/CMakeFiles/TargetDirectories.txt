@@ -1,5 +1,5 @@
-/home/drinkingcoder/Documents/Code/NLLSQ/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/drinkingcoder/Documents/Code/NLLSQ/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/drinkingcoder/Documents/Code/NLLSQ/cmake-build-debug/src/CMakeFiles/rebuild_cache.dir
-/home/drinkingcoder/Documents/Code/NLLSQ/cmake-build-debug/src/CMakeFiles/edit_cache.dir
-/home/drinkingcoder/Documents/Code/NLLSQ/cmake-build-debug/src/CMakeFiles/main.dir
+/Users/drinkingcoder/Documents/university/Lab_Task/solver/NLLSQ/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/drinkingcoder/Documents/university/Lab_Task/solver/NLLSQ/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/drinkingcoder/Documents/university/Lab_Task/solver/NLLSQ/cmake-build-debug/src/CMakeFiles/rebuild_cache.dir
+/Users/drinkingcoder/Documents/university/Lab_Task/solver/NLLSQ/cmake-build-debug/src/CMakeFiles/edit_cache.dir
+/Users/drinkingcoder/Documents/university/Lab_Task/solver/NLLSQ/cmake-build-debug/src/CMakeFiles/main.dir
